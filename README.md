@@ -1,2 +1,2 @@
 # Hello-World 
-Estoy aprendiendo a uar GitHub
+Estoy aprendiendo a usar GitHub
